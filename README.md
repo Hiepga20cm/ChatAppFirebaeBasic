@@ -14,7 +14,9 @@ git clone https://github.com/betomoedano/ChatApp.git
 
 cd into the just created project and install dependencies with yarn
 ```
-cd ChatApp && yarn
+
+cd ChatApp && yarn (or cd ChatApp && npm i)
+
 ```
 
 Add your firebase backend config in the `firebase.js` file
